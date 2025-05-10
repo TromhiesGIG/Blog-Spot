@@ -7,7 +7,7 @@
 body {
     border-top: 10px solid #248f24;
     background-color: white;
-    dispaly: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
