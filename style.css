@@ -8,6 +8,7 @@ body {
     border-top: 10px solid #248f24;
     background-color: white;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
